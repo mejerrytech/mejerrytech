@@ -14,7 +14,7 @@
 - 📫 How to reach me :point_right: Email - mejerrytech@gmail.com
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=nodejs,py,nestjs,nextjs,react,vue,js,webflow,jquery,html,tailwind,css,django,flask,alpinejs,angular,flutter,mongodb,mysql,dynamodb,graphql,sqlite,github,git,gitlab,grafana,prometheus,elasticsearch,figma,ai,aws,gcp,azure,ansible,jenkins,terraform,docker,kubernetes&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,py,nestjs,nextjs,react,vue,js,threejs,webflow,jquery,html,tailwind,css,django,flask,alpinejs,angular,flutter,mongodb,mysql,dynamodb,graphql,sqlite,github,git,gitlab,grafana,prometheus,elasticsearch,figma,ai,aws,gcp,azure,ansible,jenkins,terraform,docker,kubernetes&theme=light)](https://skillicons.dev)
 <!-- ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
