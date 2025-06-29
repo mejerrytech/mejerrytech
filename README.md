@@ -1,7 +1,7 @@
 ### Hey There :-) 
 
 - 😄 :man_technologist:	I’m an :point_right: Full Stack Developer | DevOps/SecOps | Server Expert 
-- 👯 Open to collaborate on :point_right: All Kind of Small & Big Projects of DevOPS | Cloud Infrastructure | Security Analysis | Server Administration|Hosting Consultation.
+- 👯 Open to collaborate on :point_right: All Kind of Small & Big Projects of Full-stack software development | Mobile app development | DevOPS | Cloud infrastructure design and management | Security analysis and vulnerability assessment | Server Administration | Hosting consultation and migration.
 
 - 💬 Full Stack Developer Expertise :point_right: Node.js | PHP | React | React Native | Vue.js | MySQL | Postgres | Mongo | GitHub |
 
@@ -11,7 +11,7 @@
  
 - 💬 Database Administration Expertise :point_right: MySQL, MariaDB, MongoDB, PostgreSQL, RDS, MySql Aroura, Amazon DynamoDB
 
-- 📫 How to reach me :point_right: Skype - jarnail.boparai1991 Email - jerrytechbopara@gmail.com
+- 📫 How to reach me :point_right: Email - mejerrytech@gmail.com
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=nodejs,py,nestjs,nextjs,react,vue,js,webflow,jquery,html,tailwind,css,django,flask,alpinejs,angular,flutter,mongodb,mysql,dynamodb,graphql,sqlite,github,git,gitlab,grafana,prometheus,elasticsearch,figma,ai,aws,gcp,azure,ansible,jenkins,terraform,docker,kubernetes&theme=light)](https://skillicons.dev)
