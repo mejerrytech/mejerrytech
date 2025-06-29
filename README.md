@@ -1,9 +1,9 @@
 ### Hey There :-) 
 
 - 😄 :man_technologist:	I’m an :point_right: Full Stack Developer | DevOps/SecOps | Server Expert 
-- 👯 Open to collaborate on :point_right: All Kind of Small & Big Projects of Full-stack software development | Mobile app development | DevOPS | Cloud infrastructure design and management | Security analysis and vulnerability assessment | Server Administration | Hosting consultation and migration.
+- 👯 Open to collaborate on :point_right: All kinds of Small & Big Projects of Full-stack software development | Mobile app development | DevOPS | Cloud infrastructure design and management | Security analysis and vulnerability assessment | Server Administration | Hosting consultation and migration.
 
-- 💬 Full Stack Developer Expertise :point_right: Node.js | PHP | React | React Native | Vue.js | MySQL | Postgres | Mongo | GitHub |
+- 💬 Full Stack Developer Expertise :point_right: Node.js | Python | Django | Flask | PHP | React.js | Angular | Vue.js | JavaScript | CSS3 | HTML5 | MySQL | MongoDB | PostgreSQL | Firebase | DynamoDB | WebSockets | GraphQL | RESTful APIs
 
 - 💬 DevOps Expertise :point_right: Docker | Kubernetes | ECS | EKS | AKS | Container Instances | Ansible | Terraform | Server Architect | API Gateway Management | Build & Releases | CI/CD | Jenkins | Azure Devops | Cloud Architecture and Planning | Automation Engineer | Bulk EMailing, PowerMTA.
 
