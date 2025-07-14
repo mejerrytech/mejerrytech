@@ -44,7 +44,7 @@
  
 - 💬 Database Administration Expertise :point_right: MySQL, MariaDB, MongoDB, PostgreSQL, RDS, MySql Aroura, Amazon DynamoDB
 
-- 📫 How to reach me :point_right: Skype - jarnail.boparai1991 Email - jerrytechbopara@gmail.com
+- 📫 How to reach me :point_right: Email - jerrytechbopara@gmail.com
 
 ## Skills
 ![](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
